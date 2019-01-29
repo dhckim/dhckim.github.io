@@ -20,13 +20,9 @@
     "author": "Start Bootstrap",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio.git"
-    },
+    ]
     "dependencies": {
-        "bootstrap": "4.1.1",
+        "bootstrap": "4.1.2",
         "jquery": "3.3.1"
     },
     "devDependencies": {
